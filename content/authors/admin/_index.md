@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Alpha Liu (刘鸿樟)
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,12 +18,12 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing, llm-based agent and multi-agent systems.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+- Natural Language Processing
+- LLM-Based Agent
+- Multi-Agent Systems
 
 #education:
 #  courses:
@@ -48,13 +48,13 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/alpha4agi/
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Alphamasterliu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
