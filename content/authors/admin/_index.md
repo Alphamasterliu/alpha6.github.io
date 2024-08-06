@@ -2,11 +2,14 @@
 # Display name
 title: Alpha Liu (刘鸿樟)
 
+first name: Hongzhang
+Last name: Liu
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Student'
 
 # Status emoji
 status:
@@ -20,7 +23,7 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, llm-based agent and multi-agent systems.
 
-#interests:
+interests:
 - Natural Language Processing
 - LLM-Based Agent
 - Multi-Agent Systems
@@ -66,7 +69,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi :) I'm Hongzhang Liu, a undergrad at the University of Sydney, majors in Computer Science, Financial Mathematics and Statistics. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
